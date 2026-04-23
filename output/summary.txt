@@ -1,0 +1,9 @@
+Model Comparison Summary
+========================
+
+             model  mean_accuracy  std_accuracy
+LogisticRegression            1.0           0.0
+      DecisionTree            1.0           0.0
+      RandomForest            1.0           0.0
+
+Best model: LogisticRegression (Mean Accuracy: 1.0000, Std Accuracy: 0.0000)

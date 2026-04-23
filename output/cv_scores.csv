@@ -1,0 +1,16 @@
+model,fold,accuracy
+LogisticRegression,1,1.0
+LogisticRegression,2,1.0
+LogisticRegression,3,1.0
+LogisticRegression,4,1.0
+LogisticRegression,5,1.0
+DecisionTree,1,1.0
+DecisionTree,2,1.0
+DecisionTree,3,1.0
+DecisionTree,4,1.0
+DecisionTree,5,1.0
+RandomForest,1,1.0
+RandomForest,2,1.0
+RandomForest,3,1.0
+RandomForest,4,1.0
+RandomForest,5,1.0
